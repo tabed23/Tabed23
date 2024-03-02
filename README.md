@@ -33,3 +33,9 @@ I'm passionate about building and deploying efficient and scalable solutions  us
 | **Database** | <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>  <a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 
 | **Platfrom**| ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+
+
+[![Tabeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tabed23)](https://github.com/Tabed23/github-readme-stats)
+
+![Tabeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tabed23&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
