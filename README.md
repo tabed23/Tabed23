@@ -21,3 +21,13 @@ I'm passionate about building and deploying efficient and scalable solutions  us
 **Additionally:** 
 * **Docker :** I'm proficient in containerization for efficient packaging and deployment.
 * **Scripting:** I enjoy automating tasks with scripting for improved efficiency.
+
+
+**Currently working with:**
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
+<a href="https://www.terraform.io/" title="Terraform"><img src="icons/terraform.png" /></a>
+<a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a>
+
+<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
+<a href="https://www.rust-lang.org/" title="Rust"><img src="icons/rust.png" /></a>
