@@ -34,8 +34,10 @@ I'm passionate about building and deploying efficient and scalable solutions  us
 
 | **Platfrom**| ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-
+** My Guthub Stats**
 
 [![Tabeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tabed23)](https://github.com/Tabed23/github-readme-stats)
 
-![Tabeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tabed23&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Tabeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tabed23&show=reviews,prs_merged,prs_merged_percentage)
+
+![Tabeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tabed23&show_icons=true)
